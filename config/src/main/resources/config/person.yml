@@ -1,0 +1,8 @@
+spring:
+  jpa:
+    database: mysql
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://120.76.101.203:3306/siqios?useUnicode=true&characterEncoding=utf8
+    username: siqi
+    password: 123456abc
